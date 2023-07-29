@@ -1,3 +1,6 @@
+# This project is now archived
+I'm building a new version here https://github.com/szymon-polaczy/IPR-School-Journal
+
 # school-journal
 
 ## Description
